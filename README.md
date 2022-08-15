@@ -17,8 +17,8 @@ Este perfil é exclusivamente para entrega ou postagem de atividades.
 <br>
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=1940039&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1940039&layout=compact&langs_count=7&theme=react"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=1940039&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1940039&layout=compact&langs_count=7&theme=react"/>
 
 
 ![Snake animation](https://github.com/amxanda/amxanda/blob/output/github-contribution-grid-snake.svg)
