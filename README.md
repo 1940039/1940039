@@ -4,7 +4,7 @@
 Este perfil é exclusivamente para entrega ou postagem de atividades.
 <h3>- 🏫 Instituição:</h3>
 <p align=""><a href="https://portal.ifsuldeminas.edu.br/" target="_blank"><img height="80em" src="https://cdn.discordapp.com/attachments/911689024656273428/1008830916044521563/logo_if.png"></a> </p>
-<br>
+
 
 <h3>- 🌱 Aprendendo as seguintes linguagens e ferramentas:</h3>
   <div align="center" style="display: inline_block"><br>
