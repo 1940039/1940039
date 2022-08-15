@@ -1,4 +1,4 @@
-## Olá, seja bem vinde a minha área de estudos. 📚💻
+## Olá, seja bem-vinde a minha área de estudos. 📚💻
 
 
 Este perfil é exclusivamente para entrega ou postagem de atividades.
