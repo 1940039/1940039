@@ -9,10 +9,13 @@ Este perfil é exclusivamente para entrega ou postagem de atividades.
 <h3>- 🌱 Aprendendo as seguintes linguagens e ferramentas:</h3>
   <div align="center" style="display: inline_block"><br>
     <img height="50cm" alt="c" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img height="50cm" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img height="50cm" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img height="50cm" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <img height="50cm" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
     <img height="50cm" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img height="50cm" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    
   </div>
 <br>
 
