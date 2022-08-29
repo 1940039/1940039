@@ -19,7 +19,7 @@
 <br>
 <br>
 <br>
-<div align="center">
+<div align="">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=1940039&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1940039&layout=compact&langs_count=7&theme=react"/>
   
