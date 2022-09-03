@@ -1,6 +1,8 @@
 ## Olá, seja bem-vinde a minha área de estudos. 📚💻
+
+![Snake animation](https://github.com/1940039/1940039/blob/output/github-contribution-grid-snake.svg)
+
 <p align="">Este perfil é exclusivamente para entrega ou postagem de atividades.</p>
-<br>
 
 <h3 align="">🏫 Instituição:</h3>
 <p align=""><a href="https://portal.ifsuldeminas.edu.br/" target="_blank"><img height="80em" src="https://cdn.discordapp.com/attachments/911689024656273428/1008830916044521563/logo_if.png"></a> </p>
@@ -23,7 +25,6 @@
   <img height="130cm" src="https://github-readme-stats.vercel.app/api?username=1940039&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1940039&layout=compact&langs_count=7&theme=react"/>
   
-  ![Snake animation](https://github.com/1940039/1940039/blob/output/github-contribution-grid-snake.svg)
-</div>
+
 <!--
 <h3>- 🤔 Como me encontrar:
