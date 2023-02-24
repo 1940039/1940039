@@ -3,7 +3,7 @@
 <br>
 
 <h3 align="">🏫 Instituição:</h3>
-<p align=""><a href="https://portal.ifsuldeminas.edu.br/" target="_blank"><img height="80em" src="https://cdn.discordapp.com/attachments/911689024656273428/1008830916044521563/logo_if.png"></a> </p>
+<p align=""><a href="https://portal.ifsuldeminas.edu.br/" target="_blank"><img height="80em" src="https://portal.mch.ifsuldeminas.edu.br/images/marca-oficial-campus-machado/IFSULDEMINAS_Machado-aplica%C3%A7%C3%B5es-horizontais-01.png"></a> </p>
 <br>
 
 <h3 align="">🌱 Aprendendo:</h3>
