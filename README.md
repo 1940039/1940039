@@ -40,9 +40,9 @@ function student() {
 <br> -->
 <br>
 <div align="">
-  <img height="135cm" src="https://github-readme-stats.vercel.app/api?username=1940039&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="135cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1940039&layout=compact&langs_count=7&theme=midnight-purple"/>
-  <img height="135cm" src="https://github-readme-streak-stats.herokuapp.com/?user=1940039&theme=midnight-purple&hide_border=true"/>
+  <img height="130cm" src="https://github-readme-stats.vercel.app/api?username=1940039&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="130cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1940039&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="130cm" src="https://github-readme-streak-stats.herokuapp.com/?user=1940039&theme=midnight-purple&hide_border=true"/>
   
   ![Snake animation](https://github.com/1940039/1940039/blob/output/github-contribution-grid-snake.svg)
 </div>
